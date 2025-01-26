@@ -1,9 +1,8 @@
-# DFT_By_Correlation
-Here’s the content formatted in a way that you can easily copy and paste into a document:
+Here’s the content formatted in **Markdown** for uploading to a GitHub README file. You can copy and paste this directly into your README.md file:
 
 ---
 
-### **DFT by Correlation**
+## **DFT by Correlation**
 
 The DFT can be computed by correlating the input signal \( x[i] \) with sine and cosine functions at different frequencies. This approach separates the DFT into its **real** and **imaginary** parts.
 
@@ -106,4 +105,4 @@ You can follow the same process to compute \( X[2] \) and \( X[3] \).
 
 ---
 
-This format should work well for copying into a document. Let me know if you need further adjustments!
+This Markdown format is ready to be uploaded to your GitHub README file. Let me know if you need further assistance!
